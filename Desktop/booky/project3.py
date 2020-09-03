@@ -213,11 +213,6 @@ my_apartment = [comreadingtime[0]]
 my_predict = mlr.predict(my_apartment)
 
 
-print(a_combook)
-print(b_combookreader)
-print(comreadingtime)
-print(sereadingtime)
-print(mlr.coef_[0])
 print(my_predict)
         
 
